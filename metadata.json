@@ -1,0 +1,8 @@
+{
+  "name": "CareerTrack AI",
+  "description": "Intelligent job and internship application tracker with Kanban pipeline, interview scheduling, resume versioning, and AI job description gap analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
